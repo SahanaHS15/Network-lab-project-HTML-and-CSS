@@ -1,0 +1,9 @@
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: orangered;
+    font-size: 30px;
+    padding: 40px;
+  }
+  

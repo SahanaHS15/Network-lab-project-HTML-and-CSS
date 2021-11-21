@@ -1,0 +1,33 @@
+div h1 {
+    color: blue;
+  }
+  
+  div > p {
+    color: orchid;
+  }
+  
+  a:hover {
+    color: purple;
+  }
+  
+  a:focus {
+    color: green;
+  }
+  
+  li:first-child {
+    color: red;
+  }
+  li:last-child {
+    color: brown;
+  }
+  p::first-letter {
+    color: royalblue;
+  }
+  p::after {
+    content: "hello everyone";
+    color: greenyellow;
+  }
+  p::before {
+    content: "2";
+  }
+  

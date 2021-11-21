@@ -1,0 +1,36 @@
+#company-name {
+    height: 2px;
+    text-decoration: underline;
+  }
+  
+  heading {
+    font-weight: bold;
+  }
+  
+  .right {
+    float: left;
+    margin-top: 150px;
+    padding-left: 5px;
+    height: auto;
+    width: 100%;
+    background-color: orange;
+  }
+  
+  h3 {
+    text-decoration: underline;
+  }
+  
+  #email {
+    float: left;
+    margin-left: auto;
+    background-color: brown;
+  }
+  
+  #header {
+    position: fixed;
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+    margin-bottom: 10px;
+  }
+  
