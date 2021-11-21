@@ -1,0 +1,18 @@
+.box{
+    width: 50vw;
+    height: 60vh;
+    background-color: crimson;
+}
+.boxTwo {
+    width: 50%;
+    height: 50%;
+    background-color: darkmagenta;
+}
+.boxThree {
+font-size:3em;
+background-color: darkviolet;
+}
+.boxFour {
+    font-size: 2rem;
+    background-color: firebrick;
+}

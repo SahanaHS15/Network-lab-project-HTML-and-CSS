@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.mainBox{
+    border:5px solid crimson;
+}
+.boxOne {
+    width: 100px;
+    height: 100px;
+    border:5px solid darkmagenta;
+    padding: 20px;
+    margin: 25px;
+}
+.boxTwo {
+    border: 3px solid goldenrod;
+    margin: 25px;
+    padding-left: 25px ;
+}
+.boxThree {
+    border: 4px solid palevioletred;
+    width: 200px;
+    height: 200px;
+    margin: 20px 30px 15px 90px;
+    padding-left: 60px;
+    padding-top: 55px;
+}

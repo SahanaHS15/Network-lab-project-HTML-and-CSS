@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: green;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 2em;
+    color: red;
+}
+p{
+    line-height: 2;
+    font: italic lighter 2rem arial;
+}
