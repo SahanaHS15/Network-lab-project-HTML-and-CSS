@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .one,
+  .two {
+    border: 3px solid green;
+    margin: 40px;
+    display: inline;
+  }
+  
+  .three,
+  .four {
+    border: 2px solid blue;
+    width: 200px;
+    margin: 40px;
+    display: inline-block;
+  }
+  
